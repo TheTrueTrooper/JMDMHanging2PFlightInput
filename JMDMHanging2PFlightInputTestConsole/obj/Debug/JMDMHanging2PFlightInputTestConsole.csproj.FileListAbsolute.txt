@@ -1,0 +1,10 @@
+C:\Users\sovie\source\repos\JMDMHanging2PFlightInput\JMDMHanging2PFlightInputTestConsole\bin\Debug\Com.txt
+C:\Users\sovie\source\repos\JMDMHanging2PFlightInput\JMDMHanging2PFlightInputTestConsole\bin\Debug\JMDMHanging2PFlightInputTestConsole.exe.config
+C:\Users\sovie\source\repos\JMDMHanging2PFlightInput\JMDMHanging2PFlightInputTestConsole\bin\Debug\JMDMHanging2PFlightInputTestConsole.exe
+C:\Users\sovie\source\repos\JMDMHanging2PFlightInput\JMDMHanging2PFlightInputTestConsole\bin\Debug\JMDMHanging2PFlightInputTestConsole.pdb
+C:\Users\sovie\source\repos\JMDMHanging2PFlightInput\JMDMHanging2PFlightInputTestConsole\bin\Debug\JMDMHanging2PFlight.dll
+C:\Users\sovie\source\repos\JMDMHanging2PFlightInput\JMDMHanging2PFlightInputTestConsole\bin\Debug\JMDMHanging2PFlight.pdb
+C:\Users\sovie\source\repos\JMDMHanging2PFlightInput\JMDMHanging2PFlightInputTestConsole\obj\Debug\JMDMHanging2PFlightInputTestConsole.csprojAssemblyReference.cache
+C:\Users\sovie\source\repos\JMDMHanging2PFlightInput\JMDMHanging2PFlightInputTestConsole\obj\Debug\JMDMHanging2PFlightInputTestConsole.csproj.CopyComplete
+C:\Users\sovie\source\repos\JMDMHanging2PFlightInput\JMDMHanging2PFlightInputTestConsole\obj\Debug\JMDMHanging2PFlightInputTestConsole.exe
+C:\Users\sovie\source\repos\JMDMHanging2PFlightInput\JMDMHanging2PFlightInputTestConsole\obj\Debug\JMDMHanging2PFlightInputTestConsole.pdb
